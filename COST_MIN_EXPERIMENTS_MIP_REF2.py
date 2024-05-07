@@ -1357,7 +1357,6 @@ if __name__ == "__main__":
     kwargs={}
     m=model_fun_simplified(**kwargs)
     ext_ref = {m.Z: m.N} #reformulation sets and variables
-    #lower_obj=1664
     start=time.time()
 
     [important_info,D,x_actual,m_solved]=run_function_dbd_scheduling_cost_min_ref_2(model_fun_feasibility,lower_obj,min_epsilon_improvement,initialization,infinity_val,nlp_solver,neigh,maxiter,ext_ref,logic_fun,model_fun_simplified,kwargs,use_random=False,sub_solver_opt={}, tee=True)
@@ -1376,7 +1375,6 @@ if __name__ == "__main__":
         'GAMS_MODEL.optfile = 1;'
         '\n'
         '$onecho > cplex.opt \n'
-        'mipemphasis 0\n'
         '$offecho \n']}
 
     start=time.time()
@@ -1392,7 +1390,6 @@ if __name__ == "__main__":
         'GAMS_MODEL.optfile = 1;'
         '\n'
         '$onecho > cplex.opt \n'
-        'mipemphasis 0\n'
         '$offecho \n']}
 
     start=time.time()

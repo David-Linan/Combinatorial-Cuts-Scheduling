@@ -2,11 +2,11 @@
   "__metadata__": {
     "format_version": 4,
     "date": "2024-05-07",
-    "time": "12:06:02.107270",
+    "time": "18:39:22.133874",
     "other": {},
     "__performance__": {
       "n_components": 11067,
-      "etime_make_dict": 0.125718355178833
+      "etime_make_dict": 0.1000821590423584
     }
   },
   "scheduling_model_maravelias": {

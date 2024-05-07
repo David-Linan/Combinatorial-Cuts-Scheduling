@@ -1491,43 +1491,43 @@ if __name__ == "__main__":
     logging.getLogger('pyomo').setLevel(logging.ERROR)
 
     #relaxed problem
-    # m=build_scheduling_Boolean_cost_min_relaxed()
-    # pe.TransformationFactory('core.logical_to_linear').apply_to(m)
-    # options={}
-    # start=time.time()
-    # m_solved=solve_subproblem(m,subproblem_solver = 'conopt',subproblem_solver_options= options,timelimit= 1000000,gams_output = False,tee=True,rel_tol = 1e-6)   
-    # end=time.time()
-    # print('CONOPT time (reformulated, relaxed)='+str(end-start))
-    # for I_J in m_solved.I_J:
-    #     print(1+pe.value(m_solved.Nref[I_J]))
+    m=build_scheduling_Boolean_cost_min_relaxed()
+    pe.TransformationFactory('core.logical_to_linear').apply_to(m)
+    options={}
+    start=time.time()
+    m_solved=solve_subproblem(m,subproblem_solver = 'conopt',subproblem_solver_options= options,timelimit= 1000000,gams_output = False,tee=True,rel_tol = 1e-6)   
+    end=time.time()
+    print('CONOPT time (reformulated, relaxed)='+str(end-start))
+    for I_J in m_solved.I_J:
+        print(1+pe.value(m_solved.Nref[I_J]))
 
 
-    # lower_obj=pe.value(m_solved.obj) #initialization of cut
-    # model_fun_simplified=build_scheduling_Boolean_cost_min_simplified
-    # model_fun_feasibility=build_scheduling_Boolean_cost_min_feasibility
-    # logic_fun=problem_logic_scheduling
+    lower_obj=pe.value(m_solved.obj) #initialization of cut
+    model_fun_simplified=build_scheduling_Boolean_cost_min_simplified
+    model_fun_feasibility=build_scheduling_Boolean_cost_min_feasibility
+    logic_fun=problem_logic_scheduling
 
-    # # master_max_iter=1000#master iterations
-    # initialization=[15,24,1,52,1,34,1,9] #TODO: Automatically round fro previous relaxed solution
-    # infinity_val=1e+6
-    # min_epsilon_improvement=5#todo: this should agree with the minimum coefficient in the objective function
-    # absolute_gap=0.01
-    # nlp_solver='dicopt'
-    # neigh=neighborhood_k_eq_2(len(initialization))
-    # maxiter=1000 #benders decomposition
-    # mastertee=True
-    # kwargs={}
-    # m=model_fun_simplified(**kwargs)
-    # ext_ref = {m.Z: m.N} #reformulation sets and variables
+    # master_max_iter=1000#master iterations
+    initialization=[15,24,1,52,1,34,1,9] #TODO: Automatically round fro previous relaxed solution
+    infinity_val=1e+6
+    min_epsilon_improvement=5#todo: this should agree with the minimum coefficient in the objective function
+    absolute_gap=0.01
+    nlp_solver='dicopt'
+    neigh=neighborhood_k_eq_2(len(initialization))
+    maxiter=1000 #benders decomposition
+    mastertee=True
+    kwargs={}
+    m=model_fun_simplified(**kwargs)
+    ext_ref = {m.Z: m.N} #reformulation sets and variables
 
 
-    # #lower_obj=1664
-    # start=time.time()
+    #lower_obj=1664
+    start=time.time()
 
-    # [important_info,D,x_actual,m_solved]=run_function_dbd_scheduling_cost_min_nonlinear_ref_2(model_fun_feasibility,lower_obj,absolute_gap,min_epsilon_improvement,initialization,infinity_val,nlp_solver,neigh,maxiter,ext_ref,logic_fun,model_fun_simplified,kwargs,use_random=False,sub_solver_opt={}, tee=True)
+    [important_info,D,x_actual,m_solved]=run_function_dbd_scheduling_cost_min_nonlinear_ref_2(model_fun_feasibility,lower_obj,absolute_gap,min_epsilon_improvement,initialization,infinity_val,nlp_solver,neigh,maxiter,ext_ref,logic_fun,model_fun_simplified,kwargs,use_random=False,sub_solver_opt={}, tee=True)
    
    
-    # to_gantt=generate_initialization(m=m_solved,model_name='to_gantt_MINLP')
+    to_gantt=generate_initialization(m=m_solved,model_name='to_gantt_MINLP')
 
     # ##-----END OF NEW SCHEDULING ALGORITHM FOR COST MINIMIZATION
 
@@ -1535,27 +1535,27 @@ if __name__ == "__main__":
 
     kwargs={}
 
-    # MINLP solution reformulated
-    # model_fun =build_scheduling_Boolean_cost_min
-    # m=model_fun(**kwargs)
-    # pe.TransformationFactory('core.logical_to_linear').apply_to(m)
-    # # options=    {'add_options':[
-    # #     'GAMS_MODEL.optfile = 1;'
-    # #     '\n'
-    # #     '$onecho > sbb.opt \n'
-    # #     'nodlim 1000000\n'
-    # #     'memnodes 1000000\n'
-    # #     '$offecho \n']}
+    # # MINLP solution reformulated
+    model_fun =build_scheduling_Boolean_cost_min
+    m=model_fun(**kwargs)
+    pe.TransformationFactory('core.logical_to_linear').apply_to(m)
     # options=    {'add_options':[
     #     'GAMS_MODEL.optfile = 1;'
     #     '\n'
-    #     '$onecho > dicopt.opt \n'
-    #     'feaspump 2\n'        
+    #     '$onecho > sbb.opt \n'
+    #     'nodlim 1000000\n'
+    #     'memnodes 1000000\n'
     #     '$offecho \n']}
-    # start=time.time()
-    # m_solved=solve_subproblem(m,subproblem_solver = 'dicopt',subproblem_solver_options= options,timelimit= 1000,gams_output = False,tee= True,rel_tol = 0)   
-    # end=time.time()
-    # print('MINLP time (reformulated)='+str(end-start))
+    options=    {'add_options':[
+        'GAMS_MODEL.optfile = 1;'
+        '\n'
+        '$onecho > dicopt.opt \n'
+        'feaspump 2\n'        
+        '$offecho \n']}
+    start=time.time()
+    m_solved=solve_subproblem(m,subproblem_solver = 'dicopt',subproblem_solver_options= options,timelimit= 1000,gams_output = False,tee= True,rel_tol = 0)   
+    end=time.time()
+    print('MINLP time (reformulated)='+str(end-start))
 
 
     model_fun =build_scheduling_Original_cost_min
