@@ -1,0 +1,2581 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="360pt" viewBox="0 0 792 360" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-05-07T12:16:10.027144</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.6.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 360 
+L 792 360 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 99 320.4 
+L 712.8 320.4 
+L 712.8 43.2 
+L 99 43.2 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="BrokenBarHCollection_1">
+    <defs>
+     <path id="m3d239a1f0a" d="M 99 -241.2 
+L 99 -297.9 
+L 104.115 -297.9 
+L 104.115 -241.2 
+L 99 -241.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m3d239a1f0a" x="0" y="360" style="fill: #ff7f0e; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_2">
+    <defs>
+     <path id="md050ec8bb3" d="M 109.23 -241.2 
+L 109.23 -297.9 
+L 114.345 -297.9 
+L 114.345 -241.2 
+L 109.23 -241.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#md050ec8bb3" x="0" y="360" style="fill: #ff7f0e; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_3">
+    <defs>
+     <path id="mf2b5d43ca4" d="M 129.69 -241.2 
+L 129.69 -297.9 
+L 134.805 -297.9 
+L 134.805 -241.2 
+L 129.69 -241.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mf2b5d43ca4" x="0" y="360" style="fill: #ff7f0e; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_4">
+    <defs>
+     <path id="mea0c967adb" d="M 180.84 -241.2 
+L 180.84 -297.9 
+L 185.955 -297.9 
+L 185.955 -241.2 
+L 180.84 -241.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mea0c967adb" x="0" y="360" style="fill: #ff7f0e; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_5">
+    <defs>
+     <path id="m029e57afa9" d="M 216.645 -241.2 
+L 216.645 -297.9 
+L 221.76 -297.9 
+L 221.76 -241.2 
+L 216.645 -241.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m029e57afa9" x="0" y="360" style="fill: #ff7f0e; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_6">
+    <defs>
+     <path id="md618460283" d="M 221.76 -241.2 
+L 221.76 -297.9 
+L 226.875 -297.9 
+L 226.875 -241.2 
+L 221.76 -241.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#md618460283" x="0" y="360" style="fill: #ff7f0e; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_7">
+    <defs>
+     <path id="mafd15136c2" d="M 247.335 -241.2 
+L 247.335 -297.9 
+L 252.45 -297.9 
+L 252.45 -241.2 
+L 247.335 -241.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mafd15136c2" x="0" y="360" style="fill: #ff7f0e; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_8">
+    <defs>
+     <path id="mcdbd8d3625" d="M 344.52 -241.2 
+L 344.52 -297.9 
+L 349.635 -297.9 
+L 349.635 -241.2 
+L 344.52 -241.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mcdbd8d3625" x="0" y="360" style="fill: #ff7f0e; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_9">
+    <defs>
+     <path id="m3b62fdb346" d="M 416.13 -241.2 
+L 416.13 -297.9 
+L 421.245 -297.9 
+L 421.245 -241.2 
+L 416.13 -241.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m3b62fdb346" x="0" y="360" style="fill: #ff7f0e; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_10">
+    <defs>
+     <path id="mdd2a9c21d2" d="M 436.59 -241.2 
+L 436.59 -297.9 
+L 441.705 -297.9 
+L 441.705 -241.2 
+L 436.59 -241.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mdd2a9c21d2" x="0" y="360" style="fill: #ff7f0e; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_11">
+    <defs>
+     <path id="m54f15c08ec" d="M 472.395 -241.2 
+L 472.395 -297.9 
+L 477.51 -297.9 
+L 477.51 -241.2 
+L 472.395 -241.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m54f15c08ec" x="0" y="360" style="fill: #ff7f0e; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_12">
+    <defs>
+     <path id="m569cb17b0c" d="M 482.625 -241.2 
+L 482.625 -297.9 
+L 487.74 -297.9 
+L 487.74 -241.2 
+L 482.625 -241.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m569cb17b0c" x="0" y="360" style="fill: #ff7f0e; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_13">
+    <defs>
+     <path id="m6457ad73ea" d="M 518.43 -241.2 
+L 518.43 -297.9 
+L 523.545 -297.9 
+L 523.545 -241.2 
+L 518.43 -241.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m6457ad73ea" x="0" y="360" style="fill: #ff7f0e; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_14">
+    <defs>
+     <path id="m2aab1a21b2" d="M 620.73 -241.2 
+L 620.73 -297.9 
+L 625.845 -297.9 
+L 625.845 -241.2 
+L 620.73 -241.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m2aab1a21b2" x="0" y="360" style="fill: #ff7f0e; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_15">
+    <defs>
+     <path id="ma02e3a53e5" d="M 99 -178.2 
+L 99 -234.9 
+L 104.115 -234.9 
+L 104.115 -178.2 
+L 99 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#ma02e3a53e5" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_16">
+    <defs>
+     <path id="m2916f432f8" d="M 114.345 -178.2 
+L 114.345 -234.9 
+L 119.46 -234.9 
+L 119.46 -178.2 
+L 114.345 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m2916f432f8" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_17">
+    <defs>
+     <path id="m3405918f2c" d="M 124.575 -178.2 
+L 124.575 -234.9 
+L 129.69 -234.9 
+L 129.69 -178.2 
+L 124.575 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m3405918f2c" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_18">
+    <defs>
+     <path id="md7cb73777e" d="M 145.035 -178.2 
+L 145.035 -234.9 
+L 150.15 -234.9 
+L 150.15 -178.2 
+L 145.035 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#md7cb73777e" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_19">
+    <defs>
+     <path id="mda5b11395b" d="M 160.38 -178.2 
+L 160.38 -234.9 
+L 165.495 -234.9 
+L 165.495 -178.2 
+L 160.38 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mda5b11395b" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_20">
+    <defs>
+     <path id="mc27e9f5e93" d="M 185.955 -178.2 
+L 185.955 -234.9 
+L 191.07 -234.9 
+L 191.07 -178.2 
+L 185.955 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mc27e9f5e93" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_21">
+    <defs>
+     <path id="m72beb0738b" d="M 201.3 -178.2 
+L 201.3 -234.9 
+L 206.415 -234.9 
+L 206.415 -178.2 
+L 201.3 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m72beb0738b" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_22">
+    <defs>
+     <path id="m0e4a48d089" d="M 237.105 -178.2 
+L 237.105 -234.9 
+L 242.22 -234.9 
+L 242.22 -178.2 
+L 237.105 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m0e4a48d089" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_23">
+    <defs>
+     <path id="m40cb7bd9c4" d="M 252.45 -178.2 
+L 252.45 -234.9 
+L 257.565 -234.9 
+L 257.565 -178.2 
+L 252.45 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m40cb7bd9c4" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_24">
+    <defs>
+     <path id="md18ba2e290" d="M 278.025 -178.2 
+L 278.025 -234.9 
+L 283.14 -234.9 
+L 283.14 -178.2 
+L 278.025 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#md18ba2e290" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_25">
+    <defs>
+     <path id="m18d300bffd" d="M 313.83 -178.2 
+L 313.83 -234.9 
+L 318.945 -234.9 
+L 318.945 -178.2 
+L 313.83 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m18d300bffd" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_26">
+    <defs>
+     <path id="me686bc670c" d="M 324.06 -178.2 
+L 324.06 -234.9 
+L 329.175 -234.9 
+L 329.175 -178.2 
+L 324.06 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#me686bc670c" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_27">
+    <defs>
+     <path id="m411a76bd11" d="M 349.635 -178.2 
+L 349.635 -234.9 
+L 354.75 -234.9 
+L 354.75 -178.2 
+L 349.635 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m411a76bd11" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_28">
+    <defs>
+     <path id="me693a73c10" d="M 375.21 -178.2 
+L 375.21 -234.9 
+L 380.325 -234.9 
+L 380.325 -178.2 
+L 375.21 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#me693a73c10" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_29">
+    <defs>
+     <path id="mcb5ed3e8c5" d="M 390.555 -178.2 
+L 390.555 -234.9 
+L 395.67 -234.9 
+L 395.67 -178.2 
+L 390.555 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mcb5ed3e8c5" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_30">
+    <defs>
+     <path id="ma923160152" d="M 411.015 -178.2 
+L 411.015 -234.9 
+L 416.13 -234.9 
+L 416.13 -178.2 
+L 411.015 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#ma923160152" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_31">
+    <defs>
+     <path id="m79cd4da171" d="M 416.13 -178.2 
+L 416.13 -234.9 
+L 421.245 -234.9 
+L 421.245 -178.2 
+L 416.13 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m79cd4da171" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_32">
+    <defs>
+     <path id="me543940e2c" d="M 462.165 -178.2 
+L 462.165 -234.9 
+L 467.28 -234.9 
+L 467.28 -178.2 
+L 462.165 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#me543940e2c" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_33">
+    <defs>
+     <path id="m780fec9142" d="M 487.74 -178.2 
+L 487.74 -234.9 
+L 492.855 -234.9 
+L 492.855 -178.2 
+L 487.74 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m780fec9142" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_34">
+    <defs>
+     <path id="m92bfea6f67" d="M 528.66 -178.2 
+L 528.66 -234.9 
+L 533.775 -234.9 
+L 533.775 -178.2 
+L 528.66 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m92bfea6f67" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_35">
+    <defs>
+     <path id="mea8b535bbf" d="M 549.12 -178.2 
+L 549.12 -234.9 
+L 554.235 -234.9 
+L 554.235 -178.2 
+L 549.12 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mea8b535bbf" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_36">
+    <defs>
+     <path id="m7d230fe08f" d="M 564.465 -178.2 
+L 564.465 -234.9 
+L 569.58 -234.9 
+L 569.58 -178.2 
+L 564.465 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m7d230fe08f" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_37">
+    <defs>
+     <path id="m19f46845cb" d="M 590.04 -178.2 
+L 590.04 -234.9 
+L 595.155 -234.9 
+L 595.155 -178.2 
+L 590.04 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m19f46845cb" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_38">
+    <defs>
+     <path id="m0ac5d232bd" d="M 610.5 -178.2 
+L 610.5 -234.9 
+L 615.615 -234.9 
+L 615.615 -178.2 
+L 610.5 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m0ac5d232bd" x="0" y="360" style="fill: #1f77b4; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_39">
+    <defs>
+     <path id="mb2574e1b25" d="M 104.115 -178.2 
+L 104.115 -234.9 
+L 109.23 -234.9 
+L 109.23 -178.2 
+L 104.115 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mb2574e1b25" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_40">
+    <defs>
+     <path id="mcecb3b595c" d="M 109.23 -178.2 
+L 109.23 -234.9 
+L 114.345 -234.9 
+L 114.345 -178.2 
+L 109.23 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mcecb3b595c" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_41">
+    <defs>
+     <path id="m7d89f94ff6" d="M 119.46 -178.2 
+L 119.46 -234.9 
+L 124.575 -234.9 
+L 124.575 -178.2 
+L 119.46 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m7d89f94ff6" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_42">
+    <defs>
+     <path id="mb0f9d28f41" d="M 129.69 -178.2 
+L 129.69 -234.9 
+L 134.805 -234.9 
+L 134.805 -178.2 
+L 129.69 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mb0f9d28f41" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_43">
+    <defs>
+     <path id="m527ffa2efb" d="M 139.92 -178.2 
+L 139.92 -234.9 
+L 145.035 -234.9 
+L 145.035 -178.2 
+L 139.92 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m527ffa2efb" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_44">
+    <defs>
+     <path id="m71e2e63d95" d="M 150.15 -178.2 
+L 150.15 -234.9 
+L 155.265 -234.9 
+L 155.265 -178.2 
+L 150.15 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m71e2e63d95" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_45">
+    <defs>
+     <path id="m81328aced2" d="M 165.495 -178.2 
+L 165.495 -234.9 
+L 170.61 -234.9 
+L 170.61 -178.2 
+L 165.495 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m81328aced2" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_46">
+    <defs>
+     <path id="m6ad4b0f17c" d="M 170.61 -178.2 
+L 170.61 -234.9 
+L 175.725 -234.9 
+L 175.725 -178.2 
+L 170.61 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m6ad4b0f17c" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_47">
+    <defs>
+     <path id="mbae804a6b3" d="M 180.84 -178.2 
+L 180.84 -234.9 
+L 185.955 -234.9 
+L 185.955 -178.2 
+L 180.84 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mbae804a6b3" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_48">
+    <defs>
+     <path id="meeb22f8a54" d="M 191.07 -178.2 
+L 191.07 -234.9 
+L 196.185 -234.9 
+L 196.185 -178.2 
+L 191.07 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#meeb22f8a54" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_49">
+    <defs>
+     <path id="mefdb502c60" d="M 206.415 -178.2 
+L 206.415 -234.9 
+L 211.53 -234.9 
+L 211.53 -178.2 
+L 206.415 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mefdb502c60" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_50">
+    <defs>
+     <path id="md632083226" d="M 216.645 -178.2 
+L 216.645 -234.9 
+L 221.76 -234.9 
+L 221.76 -178.2 
+L 216.645 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#md632083226" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_51">
+    <defs>
+     <path id="maf4dce8161" d="M 226.875 -178.2 
+L 226.875 -234.9 
+L 231.99 -234.9 
+L 231.99 -178.2 
+L 226.875 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#maf4dce8161" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_52">
+    <defs>
+     <path id="m9bbf1a929d" d="M 231.99 -178.2 
+L 231.99 -234.9 
+L 237.105 -234.9 
+L 237.105 -178.2 
+L 231.99 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m9bbf1a929d" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_53">
+    <defs>
+     <path id="mab69412ade" d="M 242.22 -178.2 
+L 242.22 -234.9 
+L 247.335 -234.9 
+L 247.335 -178.2 
+L 242.22 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mab69412ade" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_54">
+    <defs>
+     <path id="mf698d733cc" d="M 257.565 -178.2 
+L 257.565 -234.9 
+L 262.68 -234.9 
+L 262.68 -178.2 
+L 257.565 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mf698d733cc" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_55">
+    <defs>
+     <path id="m27b2441f3a" d="M 262.68 -178.2 
+L 262.68 -234.9 
+L 267.795 -234.9 
+L 267.795 -178.2 
+L 262.68 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m27b2441f3a" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_56">
+    <defs>
+     <path id="m89fcaf5a59" d="M 267.795 -178.2 
+L 267.795 -234.9 
+L 272.91 -234.9 
+L 272.91 -178.2 
+L 267.795 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m89fcaf5a59" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_57">
+    <defs>
+     <path id="md32db189c9" d="M 283.14 -178.2 
+L 283.14 -234.9 
+L 288.255 -234.9 
+L 288.255 -178.2 
+L 283.14 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#md32db189c9" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_58">
+    <defs>
+     <path id="m18e69c6e82" d="M 288.255 -178.2 
+L 288.255 -234.9 
+L 293.37 -234.9 
+L 293.37 -178.2 
+L 288.255 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m18e69c6e82" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_59">
+    <defs>
+     <path id="m46ede3cde4" d="M 303.6 -178.2 
+L 303.6 -234.9 
+L 308.715 -234.9 
+L 308.715 -178.2 
+L 303.6 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m46ede3cde4" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_60">
+    <defs>
+     <path id="m524a83c7bf" d="M 318.945 -178.2 
+L 318.945 -234.9 
+L 324.06 -234.9 
+L 324.06 -178.2 
+L 318.945 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m524a83c7bf" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_61">
+    <defs>
+     <path id="me22dc258ae" d="M 334.29 -178.2 
+L 334.29 -234.9 
+L 339.405 -234.9 
+L 339.405 -178.2 
+L 334.29 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#me22dc258ae" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_62">
+    <defs>
+     <path id="mf054f5d6e6" d="M 339.405 -178.2 
+L 339.405 -234.9 
+L 344.52 -234.9 
+L 344.52 -178.2 
+L 339.405 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mf054f5d6e6" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_63">
+    <defs>
+     <path id="mfec9ac750f" d="M 344.52 -178.2 
+L 344.52 -234.9 
+L 349.635 -234.9 
+L 349.635 -178.2 
+L 344.52 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mfec9ac750f" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_64">
+    <defs>
+     <path id="m76aed5d746" d="M 364.98 -178.2 
+L 364.98 -234.9 
+L 370.095 -234.9 
+L 370.095 -178.2 
+L 364.98 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m76aed5d746" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_65">
+    <defs>
+     <path id="m7bffd6ad69" d="M 370.095 -178.2 
+L 370.095 -234.9 
+L 375.21 -234.9 
+L 375.21 -178.2 
+L 370.095 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m7bffd6ad69" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_66">
+    <defs>
+     <path id="mf44447be36" d="M 380.325 -178.2 
+L 380.325 -234.9 
+L 385.44 -234.9 
+L 385.44 -178.2 
+L 380.325 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mf44447be36" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_67">
+    <defs>
+     <path id="m1b7b09d962" d="M 385.44 -178.2 
+L 385.44 -234.9 
+L 390.555 -234.9 
+L 390.555 -178.2 
+L 385.44 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m1b7b09d962" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_68">
+    <defs>
+     <path id="m99a295b931" d="M 421.245 -178.2 
+L 421.245 -234.9 
+L 426.36 -234.9 
+L 426.36 -178.2 
+L 421.245 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m99a295b931" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_69">
+    <defs>
+     <path id="m34592135d1" d="M 431.475 -178.2 
+L 431.475 -234.9 
+L 436.59 -234.9 
+L 436.59 -178.2 
+L 431.475 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m34592135d1" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_70">
+    <defs>
+     <path id="m66ce2aa85b" d="M 436.59 -178.2 
+L 436.59 -234.9 
+L 441.705 -234.9 
+L 441.705 -178.2 
+L 436.59 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m66ce2aa85b" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_71">
+    <defs>
+     <path id="m19f8ad2d75" d="M 441.705 -178.2 
+L 441.705 -234.9 
+L 446.82 -234.9 
+L 446.82 -178.2 
+L 441.705 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m19f8ad2d75" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_72">
+    <defs>
+     <path id="me29d0ac9c7" d="M 446.82 -178.2 
+L 446.82 -234.9 
+L 451.935 -234.9 
+L 451.935 -178.2 
+L 446.82 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#me29d0ac9c7" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_73">
+    <defs>
+     <path id="m16d4faa819" d="M 451.935 -178.2 
+L 451.935 -234.9 
+L 457.05 -234.9 
+L 457.05 -178.2 
+L 451.935 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m16d4faa819" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_74">
+    <defs>
+     <path id="m1db876c8ce" d="M 472.395 -178.2 
+L 472.395 -234.9 
+L 477.51 -234.9 
+L 477.51 -178.2 
+L 472.395 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m1db876c8ce" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_75">
+    <defs>
+     <path id="m2cd32224c8" d="M 482.625 -178.2 
+L 482.625 -234.9 
+L 487.74 -234.9 
+L 487.74 -178.2 
+L 482.625 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m2cd32224c8" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_76">
+    <defs>
+     <path id="md1eb2b803f" d="M 497.97 -178.2 
+L 497.97 -234.9 
+L 503.085 -234.9 
+L 503.085 -178.2 
+L 497.97 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#md1eb2b803f" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_77">
+    <defs>
+     <path id="me12aa544bd" d="M 503.085 -178.2 
+L 503.085 -234.9 
+L 508.2 -234.9 
+L 508.2 -178.2 
+L 503.085 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#me12aa544bd" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_78">
+    <defs>
+     <path id="m3197fe8a62" d="M 518.43 -178.2 
+L 518.43 -234.9 
+L 523.545 -234.9 
+L 523.545 -178.2 
+L 518.43 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m3197fe8a62" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_79">
+    <defs>
+     <path id="m8bd907efc4" d="M 523.545 -178.2 
+L 523.545 -234.9 
+L 528.66 -234.9 
+L 528.66 -178.2 
+L 523.545 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m8bd907efc4" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_80">
+    <defs>
+     <path id="m53b715ad5c" d="M 533.775 -178.2 
+L 533.775 -234.9 
+L 538.89 -234.9 
+L 538.89 -178.2 
+L 533.775 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m53b715ad5c" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_81">
+    <defs>
+     <path id="m62f6528282" d="M 559.35 -178.2 
+L 559.35 -234.9 
+L 564.465 -234.9 
+L 564.465 -178.2 
+L 559.35 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m62f6528282" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_82">
+    <defs>
+     <path id="ma8276a38c7" d="M 569.58 -178.2 
+L 569.58 -234.9 
+L 574.695 -234.9 
+L 574.695 -178.2 
+L 569.58 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#ma8276a38c7" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_83">
+    <defs>
+     <path id="me51fd467cc" d="M 579.81 -178.2 
+L 579.81 -234.9 
+L 584.925 -234.9 
+L 584.925 -178.2 
+L 579.81 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#me51fd467cc" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_84">
+    <defs>
+     <path id="m780b938efc" d="M 584.925 -178.2 
+L 584.925 -234.9 
+L 590.04 -234.9 
+L 590.04 -178.2 
+L 584.925 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m780b938efc" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_85">
+    <defs>
+     <path id="m14c51c6a9a" d="M 600.27 -178.2 
+L 600.27 -234.9 
+L 605.385 -234.9 
+L 605.385 -178.2 
+L 600.27 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m14c51c6a9a" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_86">
+    <defs>
+     <path id="m28fd193aef" d="M 615.615 -178.2 
+L 615.615 -234.9 
+L 620.73 -234.9 
+L 620.73 -178.2 
+L 615.615 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m28fd193aef" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_87">
+    <defs>
+     <path id="m4329162d68" d="M 625.845 -178.2 
+L 625.845 -234.9 
+L 630.96 -234.9 
+L 630.96 -178.2 
+L 625.845 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m4329162d68" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_88">
+    <defs>
+     <path id="mb0d578b3a4" d="M 630.96 -178.2 
+L 630.96 -234.9 
+L 636.075 -234.9 
+L 636.075 -178.2 
+L 630.96 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mb0d578b3a4" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_89">
+    <defs>
+     <path id="m37c4790518" d="M 646.305 -178.2 
+L 646.305 -234.9 
+L 651.42 -234.9 
+L 651.42 -178.2 
+L 646.305 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m37c4790518" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_90">
+    <defs>
+     <path id="mdc2959d327" d="M 661.65 -178.2 
+L 661.65 -234.9 
+L 666.765 -234.9 
+L 666.765 -178.2 
+L 661.65 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mdc2959d327" x="0" y="360" style="fill: #d62728; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_91">
+    <defs>
+     <path id="m454508af38" d="M 134.805 -178.2 
+L 134.805 -234.9 
+L 139.92 -234.9 
+L 139.92 -178.2 
+L 134.805 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m454508af38" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_92">
+    <defs>
+     <path id="m047c0e7fa7" d="M 155.265 -178.2 
+L 155.265 -234.9 
+L 160.38 -234.9 
+L 160.38 -178.2 
+L 155.265 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m047c0e7fa7" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_93">
+    <defs>
+     <path id="mc52eb8e9c4" d="M 175.725 -178.2 
+L 175.725 -234.9 
+L 180.84 -234.9 
+L 180.84 -178.2 
+L 175.725 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mc52eb8e9c4" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_94">
+    <defs>
+     <path id="m500e7c40d8" d="M 196.185 -178.2 
+L 196.185 -234.9 
+L 201.3 -234.9 
+L 201.3 -178.2 
+L 196.185 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m500e7c40d8" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_95">
+    <defs>
+     <path id="md493f5fa57" d="M 211.53 -178.2 
+L 211.53 -234.9 
+L 216.645 -234.9 
+L 216.645 -178.2 
+L 211.53 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#md493f5fa57" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_96">
+    <defs>
+     <path id="mf785f7374a" d="M 221.76 -178.2 
+L 221.76 -234.9 
+L 226.875 -234.9 
+L 226.875 -178.2 
+L 221.76 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mf785f7374a" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_97">
+    <defs>
+     <path id="m72d58639de" d="M 247.335 -178.2 
+L 247.335 -234.9 
+L 252.45 -234.9 
+L 252.45 -178.2 
+L 247.335 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m72d58639de" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_98">
+    <defs>
+     <path id="m232e0eb350" d="M 272.91 -178.2 
+L 272.91 -234.9 
+L 278.025 -234.9 
+L 278.025 -178.2 
+L 272.91 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m232e0eb350" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_99">
+    <defs>
+     <path id="mbe3c55aed6" d="M 293.37 -178.2 
+L 293.37 -234.9 
+L 298.485 -234.9 
+L 298.485 -178.2 
+L 293.37 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mbe3c55aed6" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_100">
+    <defs>
+     <path id="m1be5d125cf" d="M 298.485 -178.2 
+L 298.485 -234.9 
+L 303.6 -234.9 
+L 303.6 -178.2 
+L 298.485 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m1be5d125cf" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_101">
+    <defs>
+     <path id="mf601ee17bd" d="M 308.715 -178.2 
+L 308.715 -234.9 
+L 313.83 -234.9 
+L 313.83 -178.2 
+L 308.715 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mf601ee17bd" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_102">
+    <defs>
+     <path id="m23d5cbc747" d="M 329.175 -178.2 
+L 329.175 -234.9 
+L 334.29 -234.9 
+L 334.29 -178.2 
+L 329.175 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m23d5cbc747" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_103">
+    <defs>
+     <path id="m969338c874" d="M 354.75 -178.2 
+L 354.75 -234.9 
+L 359.865 -234.9 
+L 359.865 -178.2 
+L 354.75 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m969338c874" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_104">
+    <defs>
+     <path id="m35cdcadc51" d="M 359.865 -178.2 
+L 359.865 -234.9 
+L 364.98 -234.9 
+L 364.98 -178.2 
+L 359.865 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m35cdcadc51" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_105">
+    <defs>
+     <path id="mef06537a46" d="M 395.67 -178.2 
+L 395.67 -234.9 
+L 400.785 -234.9 
+L 400.785 -178.2 
+L 395.67 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mef06537a46" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_106">
+    <defs>
+     <path id="mdc9cf455e8" d="M 400.785 -178.2 
+L 400.785 -234.9 
+L 405.9 -234.9 
+L 405.9 -178.2 
+L 400.785 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mdc9cf455e8" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_107">
+    <defs>
+     <path id="m587bbe25f8" d="M 405.9 -178.2 
+L 405.9 -234.9 
+L 411.015 -234.9 
+L 411.015 -178.2 
+L 405.9 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m587bbe25f8" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_108">
+    <defs>
+     <path id="mc632d30a9c" d="M 426.36 -178.2 
+L 426.36 -234.9 
+L 431.475 -234.9 
+L 431.475 -178.2 
+L 426.36 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mc632d30a9c" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_109">
+    <defs>
+     <path id="mf208f2b7cf" d="M 457.05 -178.2 
+L 457.05 -234.9 
+L 462.165 -234.9 
+L 462.165 -178.2 
+L 457.05 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mf208f2b7cf" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_110">
+    <defs>
+     <path id="m3c930298bf" d="M 467.28 -178.2 
+L 467.28 -234.9 
+L 472.395 -234.9 
+L 472.395 -178.2 
+L 467.28 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m3c930298bf" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_111">
+    <defs>
+     <path id="m3d0eae413a" d="M 477.51 -178.2 
+L 477.51 -234.9 
+L 482.625 -234.9 
+L 482.625 -178.2 
+L 477.51 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m3d0eae413a" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_112">
+    <defs>
+     <path id="m5422d18831" d="M 492.855 -178.2 
+L 492.855 -234.9 
+L 497.97 -234.9 
+L 497.97 -178.2 
+L 492.855 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m5422d18831" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_113">
+    <defs>
+     <path id="mb613f6d377" d="M 508.2 -178.2 
+L 508.2 -234.9 
+L 513.315 -234.9 
+L 513.315 -178.2 
+L 508.2 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mb613f6d377" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_114">
+    <defs>
+     <path id="me8e9f3b01d" d="M 513.315 -178.2 
+L 513.315 -234.9 
+L 518.43 -234.9 
+L 518.43 -178.2 
+L 513.315 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#me8e9f3b01d" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_115">
+    <defs>
+     <path id="m02e63d9a14" d="M 538.89 -178.2 
+L 538.89 -234.9 
+L 544.005 -234.9 
+L 544.005 -178.2 
+L 538.89 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m02e63d9a14" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_116">
+    <defs>
+     <path id="m0c4b0456d7" d="M 544.005 -178.2 
+L 544.005 -234.9 
+L 549.12 -234.9 
+L 549.12 -178.2 
+L 544.005 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m0c4b0456d7" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_117">
+    <defs>
+     <path id="m92a873c1a2" d="M 554.235 -178.2 
+L 554.235 -234.9 
+L 559.35 -234.9 
+L 559.35 -178.2 
+L 554.235 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m92a873c1a2" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_118">
+    <defs>
+     <path id="m2d36dd29de" d="M 574.695 -178.2 
+L 574.695 -234.9 
+L 579.81 -234.9 
+L 579.81 -178.2 
+L 574.695 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m2d36dd29de" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_119">
+    <defs>
+     <path id="m62915bfc8f" d="M 595.155 -178.2 
+L 595.155 -234.9 
+L 600.27 -234.9 
+L 600.27 -178.2 
+L 595.155 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m62915bfc8f" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_120">
+    <defs>
+     <path id="mf6d9596a49" d="M 605.385 -178.2 
+L 605.385 -234.9 
+L 610.5 -234.9 
+L 610.5 -178.2 
+L 605.385 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mf6d9596a49" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_121">
+    <defs>
+     <path id="m84753056c1" d="M 620.73 -178.2 
+L 620.73 -234.9 
+L 625.845 -234.9 
+L 625.845 -178.2 
+L 620.73 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m84753056c1" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_122">
+    <defs>
+     <path id="m9a6609f29d" d="M 636.075 -178.2 
+L 636.075 -234.9 
+L 641.19 -234.9 
+L 641.19 -178.2 
+L 636.075 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m9a6609f29d" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_123">
+    <defs>
+     <path id="me9474570ba" d="M 651.42 -178.2 
+L 651.42 -234.9 
+L 656.535 -234.9 
+L 656.535 -178.2 
+L 651.42 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#me9474570ba" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_124">
+    <defs>
+     <path id="mf99ff87875" d="M 666.765 -178.2 
+L 666.765 -234.9 
+L 671.88 -234.9 
+L 671.88 -178.2 
+L 666.765 -178.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mf99ff87875" x="0" y="360" style="fill: #ffff00; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_125">
+    <defs>
+     <path id="m872d4f1cb5" d="M 191.07 -52.2 
+L 191.07 -108.9 
+L 201.3 -108.9 
+L 201.3 -52.2 
+L 191.07 -52.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m872d4f1cb5" x="0" y="360" style="fill: #e377c2; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_126">
+    <defs>
+     <path id="m8f807f1571" d="M 293.37 -52.2 
+L 293.37 -108.9 
+L 303.6 -108.9 
+L 303.6 -52.2 
+L 293.37 -52.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m8f807f1571" x="0" y="360" style="fill: #e377c2; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_127">
+    <defs>
+     <path id="m6db82eb68d" d="M 313.83 -52.2 
+L 313.83 -108.9 
+L 324.06 -108.9 
+L 324.06 -52.2 
+L 313.83 -52.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m6db82eb68d" x="0" y="360" style="fill: #e377c2; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_128">
+    <defs>
+     <path id="m05102b89f0" d="M 405.9 -52.2 
+L 405.9 -108.9 
+L 416.13 -108.9 
+L 416.13 -52.2 
+L 405.9 -52.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m05102b89f0" x="0" y="360" style="fill: #e377c2; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_129">
+    <defs>
+     <path id="m49ecb5b964" d="M 503.085 -52.2 
+L 503.085 -108.9 
+L 513.315 -108.9 
+L 513.315 -52.2 
+L 503.085 -52.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m49ecb5b964" x="0" y="360" style="fill: #e377c2; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_130">
+    <defs>
+     <path id="m06f7c9f7e4" d="M 538.89 -52.2 
+L 538.89 -108.9 
+L 549.12 -108.9 
+L 549.12 -52.2 
+L 538.89 -52.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m06f7c9f7e4" x="0" y="360" style="fill: #e377c2; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_131">
+    <defs>
+     <path id="m4e480020bc" d="M 610.5 -52.2 
+L 610.5 -108.9 
+L 620.73 -108.9 
+L 620.73 -52.2 
+L 610.5 -52.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m4e480020bc" x="0" y="360" style="fill: #e377c2; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_132">
+    <defs>
+     <path id="m95d888ad47" d="M 641.19 -52.2 
+L 641.19 -108.9 
+L 651.42 -108.9 
+L 651.42 -52.2 
+L 641.19 -52.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#m95d888ad47" x="0" y="360" style="fill: #e377c2; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="BrokenBarHCollection_133">
+    <defs>
+     <path id="mf4782f2449" d="M 671.88 -52.2 
+L 671.88 -108.9 
+L 682.11 -108.9 
+L 682.11 -52.2 
+L 671.88 -52.2 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#pd3475b1628)">
+     <use xlink:href="#mf4782f2449" x="0" y="360" style="fill: #e377c2; stroke: #000000"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mf811b30dfb" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mf811b30dfb" x="99" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 0 -->
+      <g transform="translate(94.228125 338.797656) scale(0.15 -0.15)">
+       <defs>
+        <path id="DejaVuSans-30" d="M 2034 4250 
+Q 1547 4250 1301 3770 
+Q 1056 3291 1056 2328 
+Q 1056 1369 1301 889 
+Q 1547 409 2034 409 
+Q 2525 409 2770 889 
+Q 3016 1369 3016 2328 
+Q 3016 3291 2770 3770 
+Q 2525 4250 2034 4250 
+z
+M 2034 4750 
+Q 2819 4750 3233 4129 
+Q 3647 3509 3647 2328 
+Q 3647 1150 3233 529 
+Q 2819 -91 2034 -91 
+Q 1250 -91 836 529 
+Q 422 1150 422 2328 
+Q 422 3509 836 4129 
+Q 1250 4750 2034 4750 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mf811b30dfb" x="201.3" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 20 -->
+      <g transform="translate(191.75625 338.797656) scale(0.15 -0.15)">
+       <defs>
+        <path id="DejaVuSans-32" d="M 1228 531 
+L 3431 531 
+L 3431 0 
+L 469 0 
+L 469 531 
+Q 828 903 1448 1529 
+Q 2069 2156 2228 2338 
+Q 2531 2678 2651 2914 
+Q 2772 3150 2772 3378 
+Q 2772 3750 2511 3984 
+Q 2250 4219 1831 4219 
+Q 1534 4219 1204 4116 
+Q 875 4013 500 3803 
+L 500 4441 
+Q 881 4594 1212 4672 
+Q 1544 4750 1819 4750 
+Q 2544 4750 2975 4387 
+Q 3406 4025 3406 3419 
+Q 3406 3131 3298 2873 
+Q 3191 2616 2906 2266 
+Q 2828 2175 2409 1742 
+Q 1991 1309 1228 531 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-32"/>
+       <use xlink:href="#DejaVuSans-30" x="63.623047"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mf811b30dfb" x="303.6" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 40 -->
+      <g transform="translate(294.05625 338.797656) scale(0.15 -0.15)">
+       <defs>
+        <path id="DejaVuSans-34" d="M 2419 4116 
+L 825 1625 
+L 2419 1625 
+L 2419 4116 
+z
+M 2253 4666 
+L 3047 4666 
+L 3047 1625 
+L 3713 1625 
+L 3713 1100 
+L 3047 1100 
+L 3047 0 
+L 2419 0 
+L 2419 1100 
+L 313 1100 
+L 313 1709 
+L 2253 4666 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-34"/>
+       <use xlink:href="#DejaVuSans-30" x="63.623047"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mf811b30dfb" x="405.9" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 60 -->
+      <g transform="translate(396.35625 338.797656) scale(0.15 -0.15)">
+       <defs>
+        <path id="DejaVuSans-36" d="M 2113 2584 
+Q 1688 2584 1439 2293 
+Q 1191 2003 1191 1497 
+Q 1191 994 1439 701 
+Q 1688 409 2113 409 
+Q 2538 409 2786 701 
+Q 3034 994 3034 1497 
+Q 3034 2003 2786 2293 
+Q 2538 2584 2113 2584 
+z
+M 3366 4563 
+L 3366 3988 
+Q 3128 4100 2886 4159 
+Q 2644 4219 2406 4219 
+Q 1781 4219 1451 3797 
+Q 1122 3375 1075 2522 
+Q 1259 2794 1537 2939 
+Q 1816 3084 2150 3084 
+Q 2853 3084 3261 2657 
+Q 3669 2231 3669 1497 
+Q 3669 778 3244 343 
+Q 2819 -91 2113 -91 
+Q 1303 -91 875 529 
+Q 447 1150 447 2328 
+Q 447 3434 972 4092 
+Q 1497 4750 2381 4750 
+Q 2619 4750 2861 4703 
+Q 3103 4656 3366 4563 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-36"/>
+       <use xlink:href="#DejaVuSans-30" x="63.623047"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#mf811b30dfb" x="508.2" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 80 -->
+      <g transform="translate(498.65625 338.797656) scale(0.15 -0.15)">
+       <defs>
+        <path id="DejaVuSans-38" d="M 2034 2216 
+Q 1584 2216 1326 1975 
+Q 1069 1734 1069 1313 
+Q 1069 891 1326 650 
+Q 1584 409 2034 409 
+Q 2484 409 2743 651 
+Q 3003 894 3003 1313 
+Q 3003 1734 2745 1975 
+Q 2488 2216 2034 2216 
+z
+M 1403 2484 
+Q 997 2584 770 2862 
+Q 544 3141 544 3541 
+Q 544 4100 942 4425 
+Q 1341 4750 2034 4750 
+Q 2731 4750 3128 4425 
+Q 3525 4100 3525 3541 
+Q 3525 3141 3298 2862 
+Q 3072 2584 2669 2484 
+Q 3125 2378 3379 2068 
+Q 3634 1759 3634 1313 
+Q 3634 634 3220 271 
+Q 2806 -91 2034 -91 
+Q 1263 -91 848 271 
+Q 434 634 434 1313 
+Q 434 1759 690 2068 
+Q 947 2378 1403 2484 
+z
+M 1172 3481 
+Q 1172 3119 1398 2916 
+Q 1625 2713 2034 2713 
+Q 2441 2713 2670 2916 
+Q 2900 3119 2900 3481 
+Q 2900 3844 2670 4047 
+Q 2441 4250 2034 4250 
+Q 1625 4250 1398 4047 
+Q 1172 3844 1172 3481 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-38"/>
+       <use xlink:href="#DejaVuSans-30" x="63.623047"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mf811b30dfb" x="610.5" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 100 -->
+      <g transform="translate(596.184375 338.797656) scale(0.15 -0.15)">
+       <defs>
+        <path id="DejaVuSans-31" d="M 794 531 
+L 1825 531 
+L 1825 4091 
+L 703 3866 
+L 703 4441 
+L 1819 4666 
+L 2450 4666 
+L 2450 531 
+L 3481 531 
+L 3481 0 
+L 794 0 
+L 794 531 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-31"/>
+       <use xlink:href="#DejaVuSans-30" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-30" x="127.246094"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#mf811b30dfb" x="712.8" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 120 -->
+      <g transform="translate(698.484375 338.797656) scale(0.15 -0.15)">
+       <use xlink:href="#DejaVuSans-31"/>
+       <use xlink:href="#DejaVuSans-32" x="63.623047"/>
+       <use xlink:href="#DejaVuSans-30" x="127.246094"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_8">
+     <!-- Discretized time -->
+     <g transform="translate(344.817188 357.314844) scale(0.15 -0.15)">
+      <defs>
+       <path id="DejaVuSans-44" d="M 1259 4147 
+L 1259 519 
+L 2022 519 
+Q 2988 519 3436 956 
+Q 3884 1394 3884 2338 
+Q 3884 3275 3436 3711 
+Q 2988 4147 2022 4147 
+L 1259 4147 
+z
+M 628 4666 
+L 1925 4666 
+Q 3281 4666 3915 4102 
+Q 4550 3538 4550 2338 
+Q 4550 1131 3912 565 
+Q 3275 0 1925 0 
+L 628 0 
+L 628 4666 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-69" d="M 603 3500 
+L 1178 3500 
+L 1178 0 
+L 603 0 
+L 603 3500 
+z
+M 603 4863 
+L 1178 4863 
+L 1178 4134 
+L 603 4134 
+L 603 4863 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-73" d="M 2834 3397 
+L 2834 2853 
+Q 2591 2978 2328 3040 
+Q 2066 3103 1784 3103 
+Q 1356 3103 1142 2972 
+Q 928 2841 928 2578 
+Q 928 2378 1081 2264 
+Q 1234 2150 1697 2047 
+L 1894 2003 
+Q 2506 1872 2764 1633 
+Q 3022 1394 3022 966 
+Q 3022 478 2636 193 
+Q 2250 -91 1575 -91 
+Q 1294 -91 989 -36 
+Q 684 19 347 128 
+L 347 722 
+Q 666 556 975 473 
+Q 1284 391 1588 391 
+Q 1994 391 2212 530 
+Q 2431 669 2431 922 
+Q 2431 1156 2273 1281 
+Q 2116 1406 1581 1522 
+L 1381 1569 
+Q 847 1681 609 1914 
+Q 372 2147 372 2553 
+Q 372 3047 722 3315 
+Q 1072 3584 1716 3584 
+Q 2034 3584 2315 3537 
+Q 2597 3491 2834 3397 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-63" d="M 3122 3366 
+L 3122 2828 
+Q 2878 2963 2633 3030 
+Q 2388 3097 2138 3097 
+Q 1578 3097 1268 2742 
+Q 959 2388 959 1747 
+Q 959 1106 1268 751 
+Q 1578 397 2138 397 
+Q 2388 397 2633 464 
+Q 2878 531 3122 666 
+L 3122 134 
+Q 2881 22 2623 -34 
+Q 2366 -91 2075 -91 
+Q 1284 -91 818 406 
+Q 353 903 353 1747 
+Q 353 2603 823 3093 
+Q 1294 3584 2113 3584 
+Q 2378 3584 2631 3529 
+Q 2884 3475 3122 3366 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-72" d="M 2631 2963 
+Q 2534 3019 2420 3045 
+Q 2306 3072 2169 3072 
+Q 1681 3072 1420 2755 
+Q 1159 2438 1159 1844 
+L 1159 0 
+L 581 0 
+L 581 3500 
+L 1159 3500 
+L 1159 2956 
+Q 1341 3275 1631 3429 
+Q 1922 3584 2338 3584 
+Q 2397 3584 2469 3576 
+Q 2541 3569 2628 3553 
+L 2631 2963 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-65" d="M 3597 1894 
+L 3597 1613 
+L 953 1613 
+Q 991 1019 1311 708 
+Q 1631 397 2203 397 
+Q 2534 397 2845 478 
+Q 3156 559 3463 722 
+L 3463 178 
+Q 3153 47 2828 -22 
+Q 2503 -91 2169 -91 
+Q 1331 -91 842 396 
+Q 353 884 353 1716 
+Q 353 2575 817 3079 
+Q 1281 3584 2069 3584 
+Q 2775 3584 3186 3129 
+Q 3597 2675 3597 1894 
+z
+M 3022 2063 
+Q 3016 2534 2758 2815 
+Q 2500 3097 2075 3097 
+Q 1594 3097 1305 2825 
+Q 1016 2553 972 2059 
+L 3022 2063 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-74" d="M 1172 4494 
+L 1172 3500 
+L 2356 3500 
+L 2356 3053 
+L 1172 3053 
+L 1172 1153 
+Q 1172 725 1289 603 
+Q 1406 481 1766 481 
+L 2356 481 
+L 2356 0 
+L 1766 0 
+Q 1100 0 847 248 
+Q 594 497 594 1153 
+L 594 3053 
+L 172 3053 
+L 172 3500 
+L 594 3500 
+L 594 4494 
+L 1172 4494 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-7a" d="M 353 3500 
+L 3084 3500 
+L 3084 2975 
+L 922 459 
+L 3084 459 
+L 3084 0 
+L 275 0 
+L 275 525 
+L 2438 3041 
+L 353 3041 
+L 353 3500 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-64" d="M 2906 2969 
+L 2906 4863 
+L 3481 4863 
+L 3481 0 
+L 2906 0 
+L 2906 525 
+Q 2725 213 2448 61 
+Q 2172 -91 1784 -91 
+Q 1150 -91 751 415 
+Q 353 922 353 1747 
+Q 353 2572 751 3078 
+Q 1150 3584 1784 3584 
+Q 2172 3584 2448 3432 
+Q 2725 3281 2906 2969 
+z
+M 947 1747 
+Q 947 1113 1208 752 
+Q 1469 391 1925 391 
+Q 2381 391 2643 752 
+Q 2906 1113 2906 1747 
+Q 2906 2381 2643 2742 
+Q 2381 3103 1925 3103 
+Q 1469 3103 1208 2742 
+Q 947 2381 947 1747 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-20" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-6d" d="M 3328 2828 
+Q 3544 3216 3844 3400 
+Q 4144 3584 4550 3584 
+Q 5097 3584 5394 3201 
+Q 5691 2819 5691 2113 
+L 5691 0 
+L 5113 0 
+L 5113 2094 
+Q 5113 2597 4934 2840 
+Q 4756 3084 4391 3084 
+Q 3944 3084 3684 2787 
+Q 3425 2491 3425 1978 
+L 3425 0 
+L 2847 0 
+L 2847 2094 
+Q 2847 2600 2669 2842 
+Q 2491 3084 2119 3084 
+Q 1678 3084 1418 2786 
+Q 1159 2488 1159 1978 
+L 1159 0 
+L 581 0 
+L 581 3500 
+L 1159 3500 
+L 1159 2956 
+Q 1356 3278 1631 3431 
+Q 1906 3584 2284 3584 
+Q 2666 3584 2933 3390 
+Q 3200 3197 3328 2828 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#DejaVuSans-44"/>
+      <use xlink:href="#DejaVuSans-69" x="77.001953"/>
+      <use xlink:href="#DejaVuSans-73" x="104.785156"/>
+      <use xlink:href="#DejaVuSans-63" x="156.884766"/>
+      <use xlink:href="#DejaVuSans-72" x="211.865234"/>
+      <use xlink:href="#DejaVuSans-65" x="250.728516"/>
+      <use xlink:href="#DejaVuSans-74" x="312.251953"/>
+      <use xlink:href="#DejaVuSans-69" x="351.460938"/>
+      <use xlink:href="#DejaVuSans-7a" x="379.244141"/>
+      <use xlink:href="#DejaVuSans-65" x="431.734375"/>
+      <use xlink:href="#DejaVuSans-64" x="493.257812"/>
+      <use xlink:href="#DejaVuSans-20" x="556.734375"/>
+      <use xlink:href="#DejaVuSans-74" x="588.521484"/>
+      <use xlink:href="#DejaVuSans-69" x="627.730469"/>
+      <use xlink:href="#DejaVuSans-6d" x="655.513672"/>
+      <use xlink:href="#DejaVuSans-65" x="752.925781"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_8">
+      <defs>
+       <path id="m7e2a877434" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m7e2a877434" x="99" y="276.3" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- U4 -->
+      <g transform="translate(71.478125 281.998828) scale(0.15 -0.15)">
+       <defs>
+        <path id="DejaVuSans-55" d="M 556 4666 
+L 1191 4666 
+L 1191 1831 
+Q 1191 1081 1462 751 
+Q 1734 422 2344 422 
+Q 2950 422 3222 751 
+Q 3494 1081 3494 1831 
+L 3494 4666 
+L 4128 4666 
+L 4128 1753 
+Q 4128 841 3676 375 
+Q 3225 -91 2344 -91 
+Q 1459 -91 1007 375 
+Q 556 841 556 1753 
+L 556 4666 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-55"/>
+       <use xlink:href="#DejaVuSans-34" x="73.193359"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m7e2a877434" x="99" y="213.3" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- U3 -->
+      <g transform="translate(71.478125 218.998828) scale(0.15 -0.15)">
+       <defs>
+        <path id="DejaVuSans-33" d="M 2597 2516 
+Q 3050 2419 3304 2112 
+Q 3559 1806 3559 1356 
+Q 3559 666 3084 287 
+Q 2609 -91 1734 -91 
+Q 1441 -91 1130 -33 
+Q 819 25 488 141 
+L 488 750 
+Q 750 597 1062 519 
+Q 1375 441 1716 441 
+Q 2309 441 2620 675 
+Q 2931 909 2931 1356 
+Q 2931 1769 2642 2001 
+Q 2353 2234 1838 2234 
+L 1294 2234 
+L 1294 2753 
+L 1863 2753 
+Q 2328 2753 2575 2939 
+Q 2822 3125 2822 3475 
+Q 2822 3834 2567 4026 
+Q 2313 4219 1838 4219 
+Q 1578 4219 1281 4162 
+Q 984 4106 628 3988 
+L 628 4550 
+Q 988 4650 1302 4700 
+Q 1616 4750 1894 4750 
+Q 2613 4750 3031 4423 
+Q 3450 4097 3450 3541 
+Q 3450 3153 3228 2886 
+Q 3006 2619 2597 2516 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-55"/>
+       <use xlink:href="#DejaVuSans-33" x="73.193359"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m7e2a877434" x="99" y="150.3" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- U2 -->
+      <g transform="translate(71.478125 155.998828) scale(0.15 -0.15)">
+       <use xlink:href="#DejaVuSans-55"/>
+       <use xlink:href="#DejaVuSans-32" x="73.193359"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m7e2a877434" x="99" y="87.3" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- U1 -->
+      <g transform="translate(71.478125 92.998828) scale(0.15 -0.15)">
+       <use xlink:href="#DejaVuSans-55"/>
+       <use xlink:href="#DejaVuSans-31" x="73.193359"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_13">
+     <!-- Units -->
+     <g transform="translate(64.358594 200.973047) rotate(-90) scale(0.15 -0.15)">
+      <defs>
+       <path id="DejaVuSans-6e" d="M 3513 2113 
+L 3513 0 
+L 2938 0 
+L 2938 2094 
+Q 2938 2591 2744 2837 
+Q 2550 3084 2163 3084 
+Q 1697 3084 1428 2787 
+Q 1159 2491 1159 1978 
+L 1159 0 
+L 581 0 
+L 581 3500 
+L 1159 3500 
+L 1159 2956 
+Q 1366 3272 1645 3428 
+Q 1925 3584 2291 3584 
+Q 2894 3584 3203 3211 
+Q 3513 2838 3513 2113 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#DejaVuSans-55"/>
+      <use xlink:href="#DejaVuSans-6e" x="73.193359"/>
+      <use xlink:href="#DejaVuSans-69" x="136.572266"/>
+      <use xlink:href="#DejaVuSans-74" x="164.355469"/>
+      <use xlink:href="#DejaVuSans-73" x="203.564453"/>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 99 320.4 
+L 99 43.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 712.8 320.4 
+L 712.8 43.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 99 320.4 
+L 712.8 320.4 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 99 43.2 
+L 712.8 43.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd3475b1628">
+   <rect x="99" y="43.2" width="613.8" height="277.2"/>
+  </clipPath>
+ </defs>
+</svg>
